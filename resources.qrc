@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/gray.png</file>
+        <file>images/green.png</file>
+        <file>images/red.png</file>
+    </qresource>
+    <qresource prefix="/cascades">
+        <file>haarcascades/haarcascade_frontalface_alt_tree.xml</file>
+        <file>haarcascades/haarcascade_frontalface_alt.xml</file>
+        <file>haarcascades/haarcascade_frontalface_alt2.xml</file>
+    </qresource>
+</RCC>
